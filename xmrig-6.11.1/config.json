@@ -62,10 +62,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx",
             "coin": null,
-            "url": "rx.unmineable.com:3333",
-            "user": "LTC:ML2cJMFZKrfeVnZPQkoHHEuavt5u14sZfP.mining#mbgb-nn1p",
+            "url": "pool.supportxmr.com:3333",
+            "user": "843oZxyhw2zeWbErwdfyGJN68igNgVMZhfeV2CEAQBkEZCQW8ANAnv7Tv3LExHXnMH1hV7rbo4kHAZrrm4wU4z2dTZd8mKJ.mining",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
